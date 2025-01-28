@@ -1,6 +1,8 @@
 {
-  "cssTheme": "Ukiyo",
+  "cssTheme": "Obsidian Nord",
   "theme": "system",
-  "textFontFamily": "Bookerly Display",
-  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font Mono"
+  "textFontFamily": "EB Garamond",
+  "monospaceFontFamily": "JetBrainsMonoNL Nerd Font Mono",
+  "baseFontSizeAction": true,
+  "baseFontSize": 19
 }

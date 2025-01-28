@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d42072146b3e105c",
+        "id": "0ef6a9775a5dd47a",
         "type": "tabs",
         "children": [
           {
-            "id": "55cc7a530b01f1a8",
+            "id": "26a4c595bddda453",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0_templates/test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -154,8 +159,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55cc7a530b01f1a8",
+  "active": "26a4c595bddda453",
   "lastOpenFiles": [
+    "0_templates/quote_template.md",
+    "0_templates/test.md",
+    "0_templates/js_snippet.md",
+    "0_templates/note_block.md",
+    "0_templates/atomic_note.md",
+    "0_templates/c++_snippet.md",
+    "0_templates/general_template.md",
+    "0_templates/shell_snippet.md",
+    "6_rough_notes/python_snippet.md",
+    "root.md",
+    "1_meta/glossary.md",
+    "7_zettelkasten",
+    "6_rough_notes",
+    "5_tags",
+    "4_categories",
+    "3_index",
+    "2_sources",
+    "1_meta",
+    "5_templates",
+    "4_tags",
+    "3_categories",
+    "5_templates/gen_templ.md",
+    "Untitled 1.md",
+    "2_index/computer_science.md",
+    "3_categories/programming_languages.md",
+    "4_tags/C++.md",
     "README.md",
     "My First Note.md"
   ]
