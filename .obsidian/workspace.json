@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0ef6a9775a5dd47a",
+        "id": "b39c35bbb4e83470",
         "type": "tabs",
         "children": [
           {
-            "id": "26a4c595bddda453",
+            "id": "8dba435e5f468b0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_templates/test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#learning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.50260543823242
+    "width": 200
   },
   "right": {
     "id": "f75937c11e6000a7",
@@ -159,35 +155,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26a4c595bddda453",
+  "active": "eef2ad8d75f0de4a",
   "lastOpenFiles": [
-    "0_templates/quote_template.md",
-    "0_templates/test.md",
-    "0_templates/js_snippet.md",
-    "0_templates/note_block.md",
+    "7_zettelkasten/Variable naming __ js.md",
+    "7_zettelkasten/Variables __js.md",
+    "7_zettelkasten/Strict mode __ js.md",
+    "5_tags/JavaScript.md",
+    "7_zettelkasten/Statements __ js.md",
+    "7_zettelkasten/Semicolons __ js.md",
+    "7_zettelkasten/Comments __ js.md",
+    "7_zettelkasten/Inserting a JavaScript program __ js.md",
+    "7_zettelkasten/Hello, world! __ js.md",
     "0_templates/atomic_note.md",
-    "0_templates/c++_snippet.md",
+    "5_tags/HTML.md",
+    "7_zettelkasten/HTML Boilerplate __ html.md",
+    "4_categories/markup_languages.md",
+    "4_categories/programming_languages.md",
+    "0_templates/html_snippet.md",
+    "0_templates/index_template.md",
     "0_templates/general_template.md",
     "0_templates/shell_snippet.md",
-    "6_rough_notes/python_snippet.md",
+    "0_templates/quote_template.md",
+    "0_templates/python_snippet.md",
+    "0_templates/note_block.md",
+    "0_templates/js_snippet.md",
     "root.md",
-    "1_meta/glossary.md",
+    "3_index/computer_science.md",
+    "0_templates/test.md",
     "7_zettelkasten",
-    "6_rough_notes",
     "5_tags",
     "4_categories",
     "3_index",
-    "2_sources",
+    "2_resources",
     "1_meta",
-    "5_templates",
-    "4_tags",
-    "3_categories",
-    "5_templates/gen_templ.md",
-    "Untitled 1.md",
-    "2_index/computer_science.md",
-    "3_categories/programming_languages.md",
-    "4_tags/C++.md",
-    "README.md",
-    "My First Note.md"
+    "0_templates/c++_snippet.md",
+    "7_zettelkasten",
+    "6_rough_notes",
+    "5_tags",
+    "4_categories"
   ]
 }

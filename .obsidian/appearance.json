@@ -1,8 +1,9 @@
 {
-  "cssTheme": "Obsidian Nord",
-  "theme": "system",
-  "textFontFamily": "EB Garamond",
+  "cssTheme": "Shiba Inu",
+  "theme": "moonstone",
+  "textFontFamily": "Tillana",
   "monospaceFontFamily": "JetBrainsMonoNL Nerd Font Mono",
   "baseFontSizeAction": true,
-  "baseFontSize": 19
+  "baseFontSize": 20,
+  "nativeMenus": false
 }

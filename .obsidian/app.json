@@ -1,9 +1,10 @@
 {
-  "readableLineLength": false,
+  "readableLineLength": true,
   "vimMode": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "6_rough_notes",
-  "tabSize": 2,
-  "strictLineBreaks": true
+  "tabSize": 4,
+  "strictLineBreaks": true,
+  "showLineNumber": false
 }

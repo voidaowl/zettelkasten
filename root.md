@@ -11,7 +11,7 @@ Use informal tags (`#`) to indicate status and activity.
 
 ## Naming
 Name indices and categories in lowercase, with words separated by underscores.
-Name tags and notes in sentence case or title case, as needed, without underscores.
+Name tags and notes in sentence case or title case, as needed, without underscores. Sometimes, for clarification, we can add a pair of underscores and an acronym at the end to clarify (e.g. `Hello, world! __ js` is a note about how to write the `Hello, world!` message in the JavaScript programming language).
 
 # Contents
 The list bellow contains all indices, categories, and tags.

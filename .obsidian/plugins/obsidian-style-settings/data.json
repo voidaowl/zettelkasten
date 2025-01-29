@@ -1,0 +1,13 @@
+{
+  "shiba-theme-settings@@shiba-colors-theme-dark": "Lilac-dark",
+  "shiba-theme-settings@@h1-font": "'Tillana'",
+  "shiba-theme-settings@@h2-font": "'Tillana'",
+  "shiba-theme-settings@@h3-font": "'Tillana'",
+  "shiba-theme-settings@@h4-font": "'Tillana'",
+  "shiba-theme-settings@@h5-font": "'Tillana'",
+  "shiba-theme-settings@@h6-font": "'Tillana'",
+  "shiba-theme-settings@@shiba-colors-theme-light": "stone-light",
+  "shiba-theme-settings@@shib-callout-select": "shib-callout-style-4",
+  "shiba-theme-settings@@shiba-clutter-free-headings": false,
+  "shiba-theme-settings@@font-monospace-theme": "'JetBrainsMonoNL Nerd Font'"
+}
