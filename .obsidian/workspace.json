@@ -11,10 +11,14 @@
             "id": "8dba435e5f468b0d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2_resources/JavaScript __ res.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "JavaScript __ res"
             }
           }
         ]
@@ -155,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eef2ad8d75f0de4a",
+  "active": "8dba435e5f468b0d",
   "lastOpenFiles": [
+    "2_resources/JavaScript __ res.md",
     "7_zettelkasten/Variable naming __ js.md",
     "7_zettelkasten/Variables __js.md",
     "7_zettelkasten/Strict mode __ js.md",
@@ -188,7 +193,6 @@
     "3_index",
     "2_resources",
     "1_meta",
-    "0_templates/c++_snippet.md",
     "7_zettelkasten",
     "6_rough_notes",
     "5_tags",
