@@ -5,10 +5,39 @@ Lists all notes related to the JavaScript programming language.
 [[programming_languages]]
 
 # Children
-[[Hello, world! __ js]]
-[[Inserting a JavaScript program __ js]]
-[[Statements __ js]]
-[[Semicolons __ js]]
-[[Comments __ js]]
-[[Strict mode __ js]]
-[[Variables __js]]
+## JavaScript Fundamentals
+### Hello, world!
+✅ [[Hello, world! __ js]]
+✅ [[Inserting a JavaScript program __ js]]
+### Code structure
+✅ [[Statements __ js]]
+✅ [[Semicolons __ js]]
+✅ [[Comments __ js]]
+### The modern mode, “use strict”
+✅ [[Strict mode __ js]]
+### Variables
+✅ [[Variables __js]]
+✅ [[Variable naming __ js]]
+✅ [[Constants __ js]]
+✅ [[Naming conventions __ js]]
+### Data types
+✅ [[Data types __ js]]
+### Interaction: alert, prompt, confirm
+✅ [[Interaction __ js]]
+### Type Conversions
+✅ [[String conversion __ js]]
+✅ [[Numeric conversion __ js]]
+✅ [[Boolean conversion __ js]]
+✅ [[Primitive coercion __ js]]
+✅ [[String coercion __ js]]
+✅ [[Number coercion __ js]]
+✅ [[BigInt coercion __ js]]
+✅ [[Boolean coercion __ js]]
+### Basic operators, maths
+✅ [[Mathematical operators __ js]]
+✅ [[String concatenation with binary + __ js]]
+✅ [[Numeric conversion, unary + __ js]]
+✅ [[Operator precedence __ js]]
+✅ [[Assignment operator__ js]]
+✅ [[Modify-in-place __ js]]
+⏳ [[Increment/decrement __ js]]
