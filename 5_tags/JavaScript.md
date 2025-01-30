@@ -42,10 +42,20 @@ Lists all notes related to the JavaScript programming language.
 ✅ [[Modify-in-place __ js]]
 ✅ [[Increment and decrement __ js]]
 ✅ [[Bitwise operators __ js]]
-
 ### Comparisons
 ✅ [[Boolean is the result __ js]]
 ✅ [[String comparison __ js]]
-⏳ [[Comparison of different types __ js]]
-⏳ [[Strict equality __ js]]
-⏳ [[Comparison with null and undefined __ js]]
+✅ [[Comparison of different types __ js]]
+✅ [[Strict equality __ js]]
+✅ [[Comparison with null and undefined __ js]]
+### Conditional branching: if, ‘?’
+✅ [[The “if” statement __ js]]
+✅ [[The “else” clause __ js]]
+✅ [[Several conditions “else if” __ js]]
+✅ [[Conditional operator __ js]]
+✅ [[Multiple conditional operators __ js]]
+✅ [[Non-traditional use of the conditional operator __ js]]
+### Logical operators
+✅ [[Logical OR __ js]]
+⏳ [[Logical AND __ js]]
+⏳ [[Logical NOT __ js]]
