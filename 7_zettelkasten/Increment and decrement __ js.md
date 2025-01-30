@@ -2,7 +2,7 @@
 2025-01-30 18:37
 **Tags:** [[JavaScript]]
 **Activity:** #learning 
-**Status:** #pending 
+**Status:** #completed 
 
 # Increment
 Increases a variable’s value by 1:
@@ -47,3 +47,36 @@ let a = counter++;
 
 alert(a); //1
 ```
+
+To summarize:
+1. If the result of increment/decrement is not used, there is no difference in which form to use.
+2. If we’d like to increase a value *and* immediately use the result of the operator, we need the **prefix** form.
+3. If we’d like to increment a value but use its previous value, we need the postfix form.
+
+> [!info] **Increment/decrement among other operators**
+> The operators `++/--` can be used inside expressions as well. Their precedence is higher than most other arithmetic operations.
+
+For example:
+```JavaScript title:example.js
+let counter = 1;
+alert( 2 * ++counter ); // 4
+```
+
+Compare with:
+```JavaScript title:example.js
+let counter = 1;
+alert( 2 * counter++ ); // 2
+```
+
+# ✅ → Best practice
+One line – one action, for predictable results and increased readability:
+```JavaScript title:example.js
+let counter = 1;
+alert( 2 * counter ); // 2
+counter++;
+alert(counter); // 3
+```
+
+# 📑 → Further reading
+[Increment (++)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment)
+[Decrement (--)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Decrement)

@@ -40,4 +40,12 @@ Lists all notes related to the JavaScript programming language.
 ✅ [[Operator precedence __ js]]
 ✅ [[Assignment operator__ js]]
 ✅ [[Modify-in-place __ js]]
-⏳ [[Increment/decrement __ js]]
+✅ [[Increment and decrement __ js]]
+✅ [[Bitwise operators __ js]]
+
+### Comparisons
+✅ [[Boolean is the result __ js]]
+✅ [[String comparison __ js]]
+⏳ [[Comparison of different types __ js]]
+⏳ [[Strict equality __ js]]
+⏳ [[Comparison with null and undefined __ js]]

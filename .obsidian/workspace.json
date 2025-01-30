@@ -13,32 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_tags/JavaScript.md",
+                "file": "root.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
-            }
-          },
-          {
-            "id": "45d8b993bf83e4ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Increment/decrement __ js.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "decrement __ js"
+              "title": "root"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 307.5
   },
   "right": {
     "id": "f75937c11e6000a7",
@@ -171,9 +165,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "49662dd2acdde0b9",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "Dictionary"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -191,10 +195,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45d8b993bf83e4ac",
+  "active": "615c9693e051adf7",
   "lastOpenFiles": [
     "5_tags/JavaScript.md",
-    "Increment/decrement __ js.md",
+    "6_rough_notes/Comparison of different types __ js.md",
+    "7_zettelkasten/String comparison __ js.md",
+    "7_zettelkasten/Boolean is the result __ js.md",
+    "7_zettelkasten/Bitwise operators __ js.md",
+    "7_zettelkasten/Increment and decrement __ js.md",
+    "6_rough_notes/Increment and decrement __ js.md",
     "Increment",
     "7_zettelkasten/BigInt coercion __ js.md",
     "7_zettelkasten/Boolean coercion __ js.md",
@@ -215,11 +224,6 @@
     "7_zettelkasten/Number coercion __ js.md",
     "6_rough_notes/[Symbol.toPrimitive]().md",
     "6_rough_notes/[Symbol.toPrimitive]() __ js.md",
-    "6_rough_notes/Number __ js.md",
-    "6_rough_notes/Date().md",
-    "6_rough_notes/Addition.md",
-    "6_rough_notes/Addition __ js.md",
-    "6_rough_notes/Addition (+) __ js.md",
     "7_zettelkasten",
     "5_tags",
     "4_categories",
