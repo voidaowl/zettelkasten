@@ -37,7 +37,7 @@ The list bellow contains all indices, categories, and tags.
 
 #### Tags
 [[HTML]]
-[[JavaScript]]
+[[JavaScript Learning]]
 
 
 

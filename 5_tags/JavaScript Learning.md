@@ -57,5 +57,37 @@ Lists all notes related to the JavaScript programming language.
 ✅ [[Non-traditional use of the conditional operator __ js]]
 ### Logical operators
 ✅ [[Logical OR __ js]]
-⏳ [[Logical AND __ js]]
-⏳ [[Logical NOT __ js]]
+✅ [[Logical AND __ js]]
+✅ [[Logical NOT __ js]]
+### Nullish coalescing operator
+✅ [[Nullish coalescing operator __ js]]
+✅ [[Nullish coalescing operator vs logical OR __ js]]
+✅ [[Nullish coalescing operator precedence]]
+### Loops: while and for
+✅ [[The while loop __ js]]
+✅ [[The do…while loop __ js]]
+✅ [[The for loop __ js]]
+✅ [[Breaking the loop __ js]]
+✅ [[Continue to the next iteration __ js]]
+✅ [[Labels to break or continue __ js]]
+### The “switch” statement
+✅ [[The switch statement __ js]]
+### Functions
+✅ [[Function declaration __ js]]
+✅ [[Local variables __ js]]
+✅ [[Outer variables __ js]]
+✅ [[Parameters __ js]]
+✅ [[Default values __ js]]
+✅ [[Returning a value __ js]]
+✅ [[Naming a function __ js]]
+✅ [[Functions as comments __ js]]
+### Function expressions
+✅ [[Function expressions __ js]]
+✅ [[Function is a value __ js]]
+✅ [[Callback functions __ js]]
+✅ [[Function expression vs function declaration __ js]]
+### Arrow function fundamentals
+✅ [[Arrow functions 101 __ js]]
+✅ [[Multiline arrow functions __ js]]
+
+## 

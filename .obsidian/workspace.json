@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_tags/JavaScript.md",
+                "file": "5_tags/JavaScript Learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "JavaScript Learning"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 272.5
   },
   "right": {
     "id": "f75937c11e6000a7",
@@ -197,33 +197,33 @@
   },
   "active": "f35f792c735c5b7c",
   "lastOpenFiles": [
-    "6_rough_notes/Logical OR __ js.md",
-    "5_tags/JavaScript.md",
-    "6_rough_notes/Non-traditional use of the conditional operator __ js.md",
-    "6_rough_notes/Multiple conditional operators __ js.md",
-    "6_rough_notes/Conditional operator __ js.md",
-    "6_rough_notes/Several conditions “else if” __ js.md",
-    "6_rough_notes/The “else” clause __ js.md",
-    "6_rough_notes/Boolean conversion in conditionals __ js.md",
-    "7_zettelkasten/The “if” statement __ js.md",
-    "7_zettelkasten/Comparison with null and undefined __ js.md",
-    "7_zettelkasten/Boolean conversion __ js.md",
-    "7_zettelkasten/Strict equality __ js.md",
-    "7_zettelkasten/Comparison of different types __ js.md",
-    "2_resources/JavaScript __ res.md",
-    "root.md",
-    "7_zettelkasten/String comparison __ js.md",
-    "7_zettelkasten/Boolean is the result __ js.md",
-    "7_zettelkasten/Bitwise operators __ js.md",
-    "7_zettelkasten/Increment and decrement __ js.md",
-    "6_rough_notes/Increment and decrement __ js.md",
+    "6_rough_notes/Multiline arrow functions __ js.md",
+    "5_tags/JavaScript Learning.md",
+    "6_rough_notes/Arrow functions 101 __ js.md",
+    "6_rough_notes/Function expression vs function declaration __ js.md",
+    "6_rough_notes/Callback functions __ js.md",
+    "6_rough_notes/Function is a value __ js.md",
+    "0_templates/js_snippet.md",
+    "6_rough_notes/Function expressions __ js.md",
+    "6_rough_notes/Functions as comments __ js.md",
+    "6_rough_notes/Naming a function __ js.md",
+    "6_rough_notes/Returning a value __ js.md",
+    "6_rough_notes/Default values __ js.md",
+    "6_rough_notes/Parameters __ js.md",
+    "6_rough_notes/Outer variables __ js.md",
+    "6_rough_notes/Local variables __ js.md",
+    "6_rough_notes/Function declaration __ js.md",
+    "5_tags/Surgical Human Anatomy.md",
+    "5_tags/Topographical Human Anatomy.md",
+    "5_tags/Descriptive Human Anatomy.md",
+    "4_categories/markup_languages.md",
+    "4_categories/Human Anatomy.md",
+    "3_index/biology.md",
+    "3_index/computer_science.md",
+    "6_rough_notes/The switch statement __ js.md",
+    "7_zettelkasten/Labels to break or continue __ js.md",
+    "7_zettelkasten/Continue to the next iteration __ js.md",
     "Increment",
-    "7_zettelkasten/BigInt coercion __ js.md",
-    "7_zettelkasten/Boolean coercion __ js.md",
-    "7_zettelkasten/Assignment operator__ js.md",
-    "7_zettelkasten/Modify-in-place __ js.md",
-    "7_zettelkasten/Interaction __ js.md",
-    "7_zettelkasten/String concatenation with binary + __ js.md",
     "7_zettelkasten",
     "5_tags",
     "4_categories",
