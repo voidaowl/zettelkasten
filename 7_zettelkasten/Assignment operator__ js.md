@@ -1,11 +1,13 @@
 # Meta
 2025-01-30 18:12
-**Tags:** [[JavaScript Learning]]
+**Tags:** [[JavaScript]]
 **Activity:** #learning 
 **Status:** #completed 
 
 # Assignment
-The assignment operator `=` is listed in the precedence table with the very low priority of `2`. That’s why, when we assign a variable like `x = 2 * 2 + 1`, the calculations are done first and then the `=` is evaluated, storing the result in `x`.
+The assignment operator `=` is listed in the precedence table with priority `2`.
+
+When we assign a variable like `x = 2 * 2 + 1`, the calculations are done first and then the `=` is evaluated, storing the result in `x`.
 
 ## Assignment = returns a value
 The call `x = value` writes `value` into `x` *and then returns it.*

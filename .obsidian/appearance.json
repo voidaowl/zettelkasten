@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Shiba Inu",
-  "theme": "system",
+  "cssTheme": "Kanagawa",
+  "theme": "obsidian",
   "textFontFamily": "Tillana",
   "monospaceFontFamily": "JetBrainsMonoNL Nerd Font Mono",
   "baseFontSizeAction": true,
-  "baseFontSize": 20,
+  "baseFontSize": 19,
   "nativeMenus": false
 }

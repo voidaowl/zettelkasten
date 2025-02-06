@@ -5,4 +5,4 @@ Lists all categories related to biology.
 [[root]]
 
 # Children
-[[Human Anatomy]]
+[[human_anatomy]]

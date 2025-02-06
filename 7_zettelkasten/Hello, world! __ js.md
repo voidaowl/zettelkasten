@@ -1,6 +1,6 @@
 # Meta
 2025-01-29 13:42
-**Tags:** [[JavaScript Learning]]
+**Tags:** [[JavaScript]]
 **Activity:** #learning
 **Status:** #completed 
 
@@ -16,6 +16,5 @@ Instructs the browser to display a dialog with an optional message, and to wait 
 Makes a call to the `alert()` method of the `Window` interface of a web browser.
 
 # 📑 → Further reading / Sources
-[[JavaScript Window Interface __ js]]
-[[window.alert() __ js]]
+[Window - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Window)
 

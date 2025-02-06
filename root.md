@@ -29,15 +29,38 @@ Name tags and notes in sentence case or title case, as needed, without underscor
 The list bellow contains all indices, categories, and tags.
 
 ## Indices
+[[biology]]
 [[computer_science]]
+[[literature]]
+[[mathematics]]
 
 ### Categories
+[[human_anatomy]]
+[[human_physiology]]
 [[markup_languages]]
+[[poetics]]
+[[poetry]]
+[[prealgebra]]
 [[programming_languages]]
 
 #### Tags
+[[C++]]
+[[Descriptive Human Anatomy]]
+[[Diction __ pox]]
+[[Form __ pox]]
 [[HTML]]
-[[JavaScript Learning]]
+[[JavaScript]]
+[[JavaScript __ ex]]
+[[Layout __ pox]]
+[[Lineation __ pox]]
+[[Metre __ pox]]
+[[Punctuation __ pox]]
+[[Rhyme __ pox]]
+[[Sonnets]]
+[[Surgical Human Anatomy]]
+[[Syntax __ pox]]
+[[Topographical Human Anatomy]]
+[[Whole numbers]]
 
 
 

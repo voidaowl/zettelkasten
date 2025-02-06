@@ -2,7 +2,7 @@
 2025-01-29 20:18
 **Tags:** [[HTML]]
 **Activity:** #learning 
-**Status:** #pending  
+**Status:** #completed   
 
 # 1️⃣ → What does it look like?
 ```HTML title:example.html

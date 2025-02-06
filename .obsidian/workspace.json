@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "87a1837667354360",
+        "id": "104402ac9081770a",
         "type": "tabs",
         "children": [
           {
-            "id": "f35f792c735c5b7c",
+            "id": "4993db22f5ede5b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_tags/JavaScript Learning.md",
+                "file": "6_rough_notes/Afterhours.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "JavaScript Learning"
+              "title": "Afterhours"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "for...of",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,12 +83,46 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "c0bc8d4c2a13c8c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_tags/C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++"
+            }
+          },
+          {
+            "id": "cfe09983992b2638",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 238.5
   },
   "right": {
     "id": "f75937c11e6000a7",
@@ -177,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,37 +226,42 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f35f792c735c5b7c",
+  "active": "4993db22f5ede5b1",
   "lastOpenFiles": [
-    "6_rough_notes/Multiline arrow functions __ js.md",
-    "5_tags/JavaScript Learning.md",
-    "6_rough_notes/Arrow functions 101 __ js.md",
-    "6_rough_notes/Function expression vs function declaration __ js.md",
-    "6_rough_notes/Callback functions __ js.md",
-    "6_rough_notes/Function is a value __ js.md",
-    "0_templates/js_snippet.md",
-    "6_rough_notes/Function expressions __ js.md",
-    "6_rough_notes/Functions as comments __ js.md",
-    "6_rough_notes/Naming a function __ js.md",
-    "6_rough_notes/Returning a value __ js.md",
-    "6_rough_notes/Default values __ js.md",
-    "6_rough_notes/Parameters __ js.md",
-    "6_rough_notes/Outer variables __ js.md",
-    "6_rough_notes/Local variables __ js.md",
-    "6_rough_notes/Function declaration __ js.md",
-    "5_tags/Surgical Human Anatomy.md",
-    "5_tags/Topographical Human Anatomy.md",
-    "5_tags/Descriptive Human Anatomy.md",
-    "4_categories/markup_languages.md",
-    "4_categories/Human Anatomy.md",
-    "3_index/biology.md",
-    "3_index/computer_science.md",
-    "6_rough_notes/The switch statement __ js.md",
-    "7_zettelkasten/Labels to break or continue __ js.md",
-    "7_zettelkasten/Continue to the next iteration __ js.md",
+    "6_rough_notes/Afterhours.md",
+    "5_tags/Whole numbers.md",
+    "7_zettelkasten/Identify Counting Numbers and Whole Numbers.md",
+    "README.md",
+    "5ac935f7de7aea3f4f9f847d30f647fca6a89942.jpg",
+    "6_rough_notes/Accentual-syllabic prosody __ pox.md",
+    "5_tags/JavaScript.md",
+    "7_zettelkasten/Array.from __ js.md",
+    "7_zettelkasten/Array.isArray __ js.md",
+    "7_zettelkasten/Iterables and array-likes __ js.md",
+    "7_zettelkasten/Symbol.iterator __ js.md",
+    "7_zettelkasten/Calling an interator explicitly __ js.md",
+    "7_zettelkasten/Strings are iterable __ js.md",
+    "7_zettelkasten/Iterables __ js.md",
+    "7_zettelkasten/Most methods support “thisArg” __ js.md",
+    "7_zettelkasten/Reducing an array __ js.md",
+    "7_zettelkasten/Splitting and joining an array __ js.md",
+    "7_zettelkasten/Reverse an array __ js.md",
+    "7_zettelkasten/Mapping an array __ js.md",
+    "7_zettelkasten/Sorting an array __ js.md",
+    "7_zettelkasten/Filtering an array __ js.md",
+    "7_zettelkasten/Find elements in array __ js.md",
+    "7_zettelkasten/Search in reverse with lastIndexOf __ js.md",
+    "7_zettelkasten/Searching with indexOf __ js.md",
+    "7_zettelkasten/Find element with includes __ js.md",
+    "7_zettelkasten/Array versatility with splice __ js.md",
+    "7_zettelkasten/Copy an array with slice __ js.md",
+    "2_resources/Untitled",
+    "8_tasks",
     "Increment",
     "7_zettelkasten",
     "5_tags",
@@ -230,8 +269,6 @@
     "3_index",
     "2_resources",
     "1_meta",
-    "7_zettelkasten",
-    "6_rough_notes",
-    "5_tags"
+    "7_zettelkasten"
   ]
 }

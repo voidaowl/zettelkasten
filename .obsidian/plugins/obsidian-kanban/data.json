@@ -1,0 +1,6 @@
+{
+  "show-checkboxes": true,
+  "full-list-lane-width": false,
+  "new-note-template": "0_templates/code_note.md",
+  "new-note-folder": "8_tasks"
+}

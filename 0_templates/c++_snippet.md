@@ -1,3 +1,3 @@
 ```C++ title:example.cpp
-1234
+123
 ```

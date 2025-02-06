@@ -1,6 +1,6 @@
 # Meta
 2025-01-30 23:20
-**Tags:** [[JavaScript Learning]]
+**Tags:** [[JavaScript]]
 **Activity:** #learning 
 **Status:** #completed 
 

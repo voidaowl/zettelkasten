@@ -1,7 +1,9 @@
 [
   "obsidian-smart-typography",
   "obsidian-dictionary-plugin",
-  "code-styler",
   "obsidian-style-settings",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "file-tree-alternative",
+  "obsidian-kanban",
+  "code-styler"
 ]

@@ -1,21 +1,14 @@
 # Meta
 2025-01-31 09:20
-**Tags:** [[JavaScript Learning]]
+**Tags:** [[JavaScript]]
 **Activity:** #learning 
 **Status:** #completed 
 
 # Nullish coalescing operator ‘??’
-The nullish coalescing operator is written as two question marks `??`.
 
-As it treats `null` and `undefined` similarly, we’ll say that a value is “defined” when it’s neither `null` nor `undefined`.
+`??` returns the first argument if it’s not `null/undefined`. Otherwise, the second one.
 
-The result of `a ?? b` is:
-1. if `a` is defined, then `a`,
-2. if `a` isn’t defined, then `b`.
-
-In other words, `??` returns the first argument if it’s not `null/undefined`. Otherwise, the second one.
-
-The common use case for `??` is to provide a default value. For example, here we show `user` if it’s value isn’t `null/undefined`, otherwise `Anonymous`:
+The common use case for `??` is to provide a default value.
 ```JavaScript title:example.js
 let user;
 alert(user ?? "Anonymous"); // Anonymous
