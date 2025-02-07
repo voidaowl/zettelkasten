@@ -216,7 +216,7 @@ Revisit
 ✅ [[Iterables and array-likes __ js]]
 ✅ [[Array.from __ js]]
 ### Map and Set
-123
+1234
 ### WeakMap and WeakSet
 123
 ### Object.keys, values, entries
